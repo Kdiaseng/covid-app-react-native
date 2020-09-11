@@ -1,8 +1,6 @@
 import React from 'react';
-import { Text, View } from 'react-native';
 import { Container, ContainerItems } from './styles';
 import { CardInfo } from './components';
-import styled from 'styled-components/native';
 
 
 export function HomeScreen() {
